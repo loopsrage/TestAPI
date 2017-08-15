@@ -1,0 +1,10 @@
+C:\Users\Jarek\Source\Repos\Toolbox\APITest\APITest\bin\Debug\APITest.exe.config
+C:\Users\Jarek\Source\Repos\Toolbox\APITest\APITest\obj\Debug\APITest.csprojResolveAssemblyReference.cache
+C:\Users\Jarek\Source\Repos\Toolbox\APITest\APITest\obj\Debug\APITest.Properties.Resources.resources
+C:\Users\Jarek\Source\Repos\Toolbox\APITest\APITest\obj\Debug\APITest.csproj.GenerateResource.Cache
+C:\Users\Jarek\Source\Repos\Toolbox\APITest\APITest\bin\Debug\APITest.exe
+C:\Users\Jarek\Source\Repos\Toolbox\APITest\APITest\bin\Debug\APITest.pdb
+C:\Users\Jarek\Source\Repos\Toolbox\APITest\APITest\obj\Debug\APITest.exe
+C:\Users\Jarek\Source\Repos\Toolbox\APITest\APITest\obj\Debug\APITest.pdb
+C:\Users\Jarek\Source\Repos\Toolbox\APITest\APITest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jarek\Source\Repos\Toolbox\APITest\APITest\bin\Debug\Newtonsoft.Json.xml
